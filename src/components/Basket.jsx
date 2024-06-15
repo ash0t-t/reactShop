@@ -1,10 +1,7 @@
 import { BasketItem } from "./BasketItem"
 
-export const Basket = ({ items, onAdd, onSubtract, onRemove, onSale, onSaleClick }) => {
+export const Basket = ({ items, onAdd, onSubtract, onRemove }) => {
     return <div>
-        {!onSaleClick && (
-            <button onClick={onSale}>Sale</button>)
-        }
         <table>
             <thead>
                 <tr>

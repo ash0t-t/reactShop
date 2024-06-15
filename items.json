@@ -1,0 +1,14 @@
+{
+  "items": [
+    { "id": 101, "title": "Psychology", "price": 10000, "photo": "https://m.media-amazon.com/images/I/91AiNeHUoNL._AC_UF1000,1000_QL80_.jpg"
+    },
+    { "id": 102, "title": "Samvel", "price": 20000, "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_0HEiR3BOmU84GCBP6U5fxsz12fKfYtZswA&usqp=CAU"
+    },
+    { "id": 103, "title": "Hovazadzori geriner@", "price": 5000, "photo": "https://images-na.ssl-images-amazon.com/images/I/81LDP+GDKVL._AC_UL210_SR210,210_.jpg"
+    },
+    { "": 104, "title": "Aybolit", "price": 15000, "photo": "https://static.periplus.com/vUrOCND_0zeVzmUSphOzvCtjOPlAcIT_LdbRBke1zortnnURweXOxUOJkJlNjVuEA--"
+    },
+    { "id": 105, "title": "JS with Marjinyan", "price": 90000, "photo": "https://images4.penguinrandomhouse.com/cover/9780744060089?height=295&alt=cover_coming_soon.jpg"
+    }
+  ]
+}
